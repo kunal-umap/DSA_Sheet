@@ -276,4 +276,179 @@
           8 9  12 13
             10 11
 
+
+6.       4 4 4 4 4 4 4  
+         4 3 3 3 3 3 4   
+         4 3 2 2 2 3 4   
+         4 3 2 1 2 3 4   
+         4 3 2 2 2 3 4   
+         4 3 3 3 3 3 4   
+         4 4 4 4 4 4 4   
+
+7.     1      1
+       12    21
+       123  321
+       12344321
 ```
+
+
+## Recursion
+
+
+### Easy
+- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
+- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
+- [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
+1. [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
+- [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
+- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
+2. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
+- [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+- [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
+- [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
+- [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
+- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
+- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
+- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
+3. [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
+4. [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
+5. [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
+- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
+6. [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
+- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
+- [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
+- [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
+- [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+
+### Medium
+1. [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
+2. [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
+3. [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
+4. [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+4. [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
+5. [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
+- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
+6. [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
+7. [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
+- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
+- [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
+8. [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
+9. [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+10. [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
+11. [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
+12. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
+13. [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
+-* [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
+14. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
+15. [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+16. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
+17. [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
+18. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+- [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+- [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+19. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+20. [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
+- [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
+21. [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
+- [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
+- [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
+- [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
+22. [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+
+### Hard
+1. [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
+2. [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
+3. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
+- [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
+4. [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
+5. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
+6. [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
+7. [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
+8. [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
+9. [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
+10. [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
+-* [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
+- [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
+- [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
+- [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
+- [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
+- [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
+11. [Concatenated Words](https://leetcode.com/problems/concatenated-words/)`leetcode`
+
+
+## OPP
+
+1. [Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) `HackerRank`
+2. [Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true) `HackerRank`
+3. [Java Abstract class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true) `HackerRank`
+4. [Interface](https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true) `HackerRank`
+5. [Method Overriding I](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true) `HackerRank`
+6. [Method Overriding II (Use super keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true) `HackerRank`
+7. [Java instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true) `HackerRank`
+8. [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem?isFullScreen=true) `HackerRank`
+
+
+## LinkList
+
+
+### Easy
+1. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
+2. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
+3. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
+4. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
+5. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
+6. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
+7. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
+8. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
+9. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
+10. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
+11. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
+
+### Medium
+1. [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
+2. [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
+3. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
+4. [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+5. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
+6. [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
+7. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
+8. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
+9. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
+10. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
+11. [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
+12. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
+13. [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
+14. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
+15. [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
+16. [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
+17. [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
+18. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
+19. [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
+20. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`
+21. [ Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
+22. [ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
+23. [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`
+24. [ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
+25. [Design Browser History](https://leetcode.com/problems/design-browser-history/)`leetcode`
+26. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)`leetcode`
+27. [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`leetcode`
+28. [ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
+29. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
+30. [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
+31. [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
+
+### Hard
+1. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
+2. [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
+3. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
+4. [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
+5. [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`
+6. [Design Skiplist](https://leetcode.com/problems/design-skiplist/) `leetcode`
+
+
+
